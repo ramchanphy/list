@@ -1,3 +1,9 @@
-name=["sarika","broke","up","with","her","boyfriend"]
-name.append("but they are back together")
-print(name)
+# name=["sarika","worin","honmi","wonao","ringyaphy"]
+# name.append("ringnim")
+# print(name)
+
+
+
+
+
+
