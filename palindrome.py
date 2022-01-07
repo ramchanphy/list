@@ -1,4 +1,4 @@
-name=['n','i','t','i','i']
+name=['n','i','t','i','n']
 i=-1
 a=[]
 while i>=(-(len(name))):
