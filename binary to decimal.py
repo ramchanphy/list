@@ -1,8 +1,8 @@
 a=[]
-size=int(input("enter the binary number"))
+size=int(input("enter the size"))
 i=0
 while i<size:
-    list=int(input("enter the number"))
+    list=int(input("enter the binary no."))
     a.append(list)
     print("the list is:",a)
     i+=1

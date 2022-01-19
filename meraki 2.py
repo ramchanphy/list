@@ -5,6 +5,6 @@ while i<len(numbers):
     if numbers[i]>=20 and numbers[i]<=40:
         count+=1
     i+=1
-print(count)
+print(count)                  
     
 
