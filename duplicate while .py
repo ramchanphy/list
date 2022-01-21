@@ -11,3 +11,4 @@ while i<len(a):
     i+=1
 print(b)
 print(c)
+
