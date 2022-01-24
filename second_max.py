@@ -1,4 +1,4 @@
-numbers=[50,40,23,70,56,12,5,10,7]
+numbers=[5,40,23,5,56,12,15,10,70]
 i=0
 second_max=numbers[0]
 largest=numbers[0]
