@@ -1,4 +1,4 @@
-binary_number=[0,1,1,1,0]
+binary_number=[1,0,0,1,1,0,1,1]
 i=len(binary_number)-1
 decimal=0
 c=1
