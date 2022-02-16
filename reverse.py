@@ -1,9 +1,13 @@
-places=["delhi","gujrat","rajasthan","punjab","kerela"]
+# places=["delhi","gujrat","rajasthan","punjab","kerela"]
+places=["d","e","l","h","i"]
 i=-1 
-
+a=[]
 while i>=(-(len(places))):
-    print(places[i])
+    # i-=1
+    a.append(i)
+    # print(a)
     i-=1
+print(a)
 
 
 
