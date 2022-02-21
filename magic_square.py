@@ -21,7 +21,7 @@ while i<len(magic_square):
         c+=magic_square[i][j]
         d+=magic_square[j][j]
         e+=magic_square[j][j]
-        f+=magic_square[j][j]na
+        f+=magic_square[j][j]
         g+=magic_square[i][j]
         h+=magic_square[j][l]
         l-=1

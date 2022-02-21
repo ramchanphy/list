@@ -14,5 +14,9 @@ while i<len(elements):
     i+=1
 avg=sum//even
 avg1=sum1//odd
+print("count",even)
+print("count",odd)
+print("sum",sum)
+print("sum1",sum1)
 print("no.of even numbers are =",avg)
 print("no.of odd numbers are =",avg1)

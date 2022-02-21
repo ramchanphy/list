@@ -4,7 +4,7 @@ life_line=[["seven","eight"],["bhopal","delhi"],["software engineering","counsel
 solution_list2=[1,2,1]
 i=0
 count=0
-solution_list=[3,2,1]
+solution_list=[3,4,1]
 while i<len(question_list):
     print("q",i+1,question_list[i])
     j=0
@@ -37,8 +37,5 @@ while i<len(question_list):
     else:
         print("your answer is wrong")
         break
-            
-                
-                
     i+=1
                 
