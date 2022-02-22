@@ -6,6 +6,6 @@ while i<=len(list):
     j=i
     while j<=user:
         if i==user:
-            print(list[i-1])
+            print(list[i])
         j+=1
     i+=1
