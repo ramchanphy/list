@@ -1,4 +1,4 @@
-a=["aba","def","hij","xyzx","aba"]
+a=["aba","ded","hij","xyzx","aba"]
 i=0
 while i<len(a):
     j=0

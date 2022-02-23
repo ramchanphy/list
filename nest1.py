@@ -6,3 +6,5 @@ while i<len(list):
     a.append(c)
     i+=2
 print(a)
+                           
+                

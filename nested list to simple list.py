@@ -18,14 +18,4 @@ while i<len(a):
     i+=1
 print(b)   
 
-# print(a[0])
-# print(a[1])
-# print(a[2][0])
-# print(a[2][1][0])
-# print(a[2][1][1])
-# print(a[2][2][0])
-# print(a[2][2][1])
-# print(a[2][3])
-# print(a[3])
-# print(a[4])
-# print(a[5])             
+

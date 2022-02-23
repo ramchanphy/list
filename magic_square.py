@@ -27,15 +27,15 @@ while i<len(magic_square):
         l-=1
         j+=1
     i+=1
-print(a)
-print(b)
-print(c)
-print(d)
-print(e)
-print(f)
-print(g)
-print(h)
-print()
+# print(a)
+# print(b)
+# print(c)
+# print(d)
+# print(e)
+# print(f)
+# print(g)
+# print(h)
+# print()
 if a==b==c:
     print("magic_square")
 else:

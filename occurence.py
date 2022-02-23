@@ -8,7 +8,15 @@ while i<len(list):
     e=list.count("u")
     f=list.count("g")
     i+=1
-print((["a",a],["n",b],["t",c],["x",d],["u",e],["g",f]))
+print(["a",a],["n",b],["t",c],["x",d],["u",e],["g",f])
+
+
+
+
+
+
+
+
 # chr=input("enter the character")
 # count=0
 # count1=0
@@ -22,7 +30,7 @@ print((["a",a],["n",b],["t",c],["x",d],["u",e],["g",f]))
 #     b=char_list[i]+1
 #     if b[i]==b:
 #         b+=1
-        # count1+=1
+#         count1+=1
         
         
         
