@@ -7,8 +7,6 @@ while i<len(x):
     if x[i]!=subStr:
         a.append(x[i])
     i+=1
-print(" ".join(a))
-
-
+print(",".join(a))
         
         

@@ -1,5 +1,5 @@
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry","apple"]
 
 x = fruits.count("apple")
 
-print(x)
+print("apple:",x)

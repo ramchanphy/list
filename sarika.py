@@ -46,5 +46,5 @@ for i in range(n//2-1, n):
         else:
             print(' ', end=" ")
               
-    print()10
+    print()
             

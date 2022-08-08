@@ -1,3 +1,6 @@
 num=[1,2,3,4,5]
-num.pop()
+i=0
+while i<len(num):
+    
+    num.pop()
 print(num)

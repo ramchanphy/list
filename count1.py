@@ -1,11 +1,11 @@
 a=["aba","ded","hij","xyzx","aba"]
 i=0
+c=0
+b=[]
 while i<len(a):
-    j=0
-    count=0
-    while j<len(a[i]):
-        if a[i][j]==a[i][j]:
-            count+=1
-        j+=1
+    if len(a[i])>0 and a[i][0]==a[i][-1]:
+        b.append(a[i])
+        c+=1
     i+=1
-print(count)
+print(c)
+print(b)

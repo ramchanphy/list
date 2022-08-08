@@ -10,6 +10,5 @@ while i<=30:
     if count == 0 and i!= 1:
         a.append(i)
     i+=1
-print([a[0:5],a[5:]])
-# print(a[5:])
-
+# print([a[0:5],a[5:]])
+print(a)

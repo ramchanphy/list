@@ -5,4 +5,4 @@ while i<len(list):
     k=[list[i],list[i+1]]
     a.append(k)
     i+=2
-print(a)
+print(a) 

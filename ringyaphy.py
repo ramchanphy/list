@@ -1,11 +1,11 @@
-list=[12,67,23,33]
-i=0
+list=[[2,10],[5,3],[8,6]]
+i=1
 a=[]
 while i<len(list):
     j=0
     while j<len(list[i]):
-        if list[i]==list[j]:
-            a.append(list[i][j])
+        sub=list[i]-list[i][j]
         j+=1
+    a.append([sub])
     i+=1
 print(a)

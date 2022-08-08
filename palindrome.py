@@ -1,4 +1,4 @@
-name=['n','i','t','i','n']
+name=["n","i","t","i","n"]
 i=-1
 a=[]
 while i>=(-(len(name))):
@@ -8,6 +8,3 @@ if a==name:
     print("palindrome")
 else:
     print("not palindrome")
-
-
-    
